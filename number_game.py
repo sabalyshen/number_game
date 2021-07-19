@@ -8,7 +8,7 @@ while True:
 		print('less')
 	elif a < r:
 		print('more')
-	else:
+	elif a == r:
 		print('your right!!Good job.')
 		break
-		
+
